@@ -2,24 +2,24 @@
 
 int main() {
 
-    int x, y, z, menor;
+    int x, y, z, smaller;
 
-    printf("Primeiro valor: ");
+    printf("First value: ");
     scanf("%d", &x);
-    printf("Segundo valor: ");
+    printf("Second value: ");
     scanf("%d", &y);
-    printf("Terceiro valor: ");
+    printf("Third value: ");
     scanf("%d", &z);
 
     if (x <= y  && x <= z) {
-        menor = x;
+        smaller = x;
     } else if (y <= x  &&  y <= z) {
-        menor = y;
+        smaller = y;
     } else if (z < x  &&  z < y) {
-        menor = z;
+        smaller = z;
     }
 
-    printf("MENOR = %d\n", menor);
+    printf("SMALLER = %d\n", smaller);
 
     return 0;
 }

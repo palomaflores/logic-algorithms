@@ -1,17 +1,13 @@
-# Algoritmos e Lógica
+# My studies for Logic and Algorithms
 
-Esse repositório contém as minhas resoluções dos exercícios do curso Algoritmos e Lógica de Programação ministrado por Nélio Alves na Udemy. A proposta aqui é resolver cada problema em várias linguagens para aprofundar o entendimento da lógica e praticar diferentes sintaxes.
+This repository contains my notes and solutions to the exercises from the course "Algorithms and Programming Logic", by Nélio Alves on Udemy. The goal is to solve each problem in different programming languages, deepening the understanding of computational logic and practicing different syntaxes. The exercises cover topics such as sequential structures, conditionals, loops, vectors and matrices, and are organized by topics and languages ​​used.
 
-## Estrutura do Repositório
-Este repositório reúne a resolução de problemas de lógica de programação abordando diversos tópicos como estruturas sequenciais, condicionais, repetitivas, vetores e matrizes. Os problemas foram resolvidos em múltiplas linguagens de programação, incluindo:
+# Folders
+- C
+- C++
+- C#
+- Java
+- Python
 
-- 📁 C
-- 📁 C++
-- 📁 Java
-- 📁 C#
-- 📁 Python
-
-## Observações
-- Esse repositório está em construção. Atualizações e melhorias estão sendo realizadas continuamente.
-
-<b>Nota: Esse repositório foi criado para fins pessoais de estudo e não tem a intenção de violar nenhum direito autoral do curso da Udemy.</b>
+# Note
+This repository is in progress. Updates will be made continuously. This repository was created for personal studies and doesn't intend to violate any copyright.

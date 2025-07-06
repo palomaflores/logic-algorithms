@@ -5,11 +5,11 @@ int main() {
 
     double a, b, c, x1, x2, delta;
 
-    printf("Coeficiente a: ");
+    printf("Coefficient a: ");
     scanf("%lf", &a);
-    printf("Coeficiente b: ");
+    printf("Coefficient b: ");
     scanf("%lf", &b);
-    printf("Coeficiente c: ");
+    printf("Coefficient c: ");
     scanf("%lf", &c);
 
     delta = ((b * b) - 4 * a * c);
@@ -20,7 +20,7 @@ int main() {
         printf("X1 = %.4lf \n", x1);
         printf("X2 = %.4lf \n", x2);
     } else {
-        printf("Esta equacao nao possui raizes reais.");
+        printf("This equation doesn't have real roots.");
     }
 
     return 0;
